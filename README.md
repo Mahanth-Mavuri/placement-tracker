@@ -4,7 +4,7 @@ A full-stack web application designed for college students to manage and track j
 
 ## 🌐 Live Demo
 
-[🚀 View Live Demo](https://placement-tracker-two-sooty.vercel.app/)
+[🚀 View Live Demo]https://placement-tracker-two-sooty.vercel.app/
 
 ## 💻 GitHub Repository
 
